@@ -1,3 +1,4 @@
+## SHARUN N (212223060257)
 # Voltage---Current-Characteristics-of-LED/LASER
 # Fiber Optic LED and Photo Detector Characteristics
 
@@ -39,18 +40,13 @@ Key points:
 
 ## TABULATION
 
-| Forward Voltage \(V_f\) (V) | Forward Current \(I_f\) (mA) |
-|-----------------------------|------------------------------|
-|                             |                              |
-|                             |                              |
-|                             |                              |
+![WhatsApp Image 2026-03-12 at 8 11 25 PM](https://github.com/user-attachments/assets/9a5e8b62-aa34-4140-aa46-61e9a552d610)
 
----
 
 ## MODEL GRAPH
-*(Insert IV characteristics graph and optical power plots here)*
 
----
+![WhatsApp Image 2026-03-12 at 8 13 04 PM](https://github.com/user-attachments/assets/88bb7341-1c8a-4eaf-942a-22dc4a9dbcf3)
+
 
 ## RESULT
 - The IV characteristics of the fiber optic LED were studied.  
